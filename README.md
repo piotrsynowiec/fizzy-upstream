@@ -1,7 +1,9 @@
 # Card column navigation — review evidence
 
 Screenshots from an isolated local Fizzy preview with 70 disposable sample cards.
-Implementation commit: c4b6ddd126396cf113984b990ecab739fd49a9cd, based on upstream main 48f56c0453e27e825dbc55369263e6beb3e60da5.
+Implementation commit: c91ea677b156ec4b66d11e914b156cd02e5ac38b, based on upstream main 48f56c0453e27e825dbc55369263e6beb3e60da5.
+
+Both arrows sit below the watch/pin controls on the right edge. Arrow strokes are approximately 15% lighter than the original arrow-up icon.
 
 Desktop: 1280×720. Mobile: 390×844. Neither screenshot is from production.
 
